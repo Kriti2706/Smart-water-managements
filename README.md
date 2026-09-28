@@ -162,3 +162,6 @@ ESP32-Smart-Water-Management/
 ⚠️ Prototype Disclaimer
 This project is an academic simulation and prototyping system designed for water management automation.
 In production environments dealing with mains AC high-voltage pump motors, opto-isolated relay modules, proper thermal heatsinking, contactor relays, and industrial IP67-rated waterproof ultrasonic sensors must be used in compliance with regional electrical safety standards.
+
+YouTube video link:
+https://youtu.be/GHWsvLkek4I?si=gipui1CGjjyzn43D
