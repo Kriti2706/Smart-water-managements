@@ -68,7 +68,8 @@ the system:
 | GND | GND |
 | SDA | GPIO 21 |
 | SCL | GPIO 22 |
-I²C address used: 0x3C### Relay & Actuation
+I²C address used: 0x3C
+### Relay & Actuation
 
 | Relay Pin | ESP32 |
 | :--- | :--- |
